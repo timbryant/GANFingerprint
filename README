@@ -1,0 +1,4 @@
+This repo for the fingerprint image process using GAN
+
+Folder dataaug
+function: for data aug,including rand noise,flip,GaussianBlur
